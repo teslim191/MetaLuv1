@@ -1,0 +1,119 @@
+*{
+    box-sizing: border-box !important;
+}
+
+header{
+    background: linear-gradient(to right, rgb(60, 204, 173) , violet);
+}
+input[type="search"]{
+    border: none;
+    outline: none;
+    width: 50px;
+}
+input[type="search"]:focus{
+    width: 100px;
+}
+ul li {
+    display: inline-block;
+    position: relative;
+}
+ul li a{
+    color: #ffffff !important;
+}
+ul li a:hover:not(#home) {
+    color: #E3B726 !important;
+}
+
+ul li:hover:before {
+    content: "";
+    position: absolute;
+    bottom: -10px;
+    background: #E3B726;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    left:calc(50% - 8px);
+}
+@font-face {
+    font-family: myFirstFont;
+    src: url(font/Fontspring-DEMO-caros-heavy.otf);
+}
+#head{
+    color: #FFFDFC;
+    font-family: myFirstFont;
+    font-weight: 900;
+
+
+}
+#create{
+    text-decoration: none;
+}
+.bg{
+    background-color: #14ed96;
+}
+#list{
+    list-style-type: none;
+}
+#list li{
+    padding: 5px 0px 5px 0px !important;
+}
+@media screen and (max-width: 600px){
+    #head{
+        font-size: 1em !important;
+    }
+    #span{
+        font-size: 0.9em !important;
+    }
+    .bg{
+        border-bottom-style: solid !important;
+        border-right-style: none !important;
+    }
+    #span1{
+        font-size: 1.3em !important;
+    }
+    #heading{
+        text-align: center !important;
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+    #map{
+        /* text-align: right !important; */
+        padding-left: 20px !important;
+    }
+    #member{
+        margin-top: 20px !important;
+        max-width: 100% !important;
+    }
+    #hidden{
+        margin-bottom: 20px !important;
+        /* max-width: 50% !important;       */
+
+    }
+}
+
+@media screen and (min-width: 601px){
+    .middle{
+        max-width: 100% !important;
+        font-size: 1.5em !important;
+    }
+    #benefits{
+        max-width: 40% !important;
+    }
+    #span1{
+        font-size: 1em !important;
+    }
+    .bg{
+        /* border-bottom-style: solid !important; */
+        /* border-right-style: none !important; */
+        
+    }
+
+}
+
+@media screen and (max-width:1020px){
+    .bg{
+        border-bottom-style: solid !important;
+        border-right-style: none !important;
+    }
+}
+
