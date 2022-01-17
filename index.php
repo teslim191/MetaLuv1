@@ -336,75 +336,95 @@
 
         <div class="container pt-3 justify-content-center text-light">
           <div class="row no-gutters">
-            <div class="col-lg-4 col-md-4">
-              <img
+            <div class="col-lg-6 col-md-6">
+              <div class="row">
+                <div class="col-lg-4 col-md-4 ">
+                <img
                 src="image/globe.png"
                 alt=""
                 srcset=""
                 class="img-responsive"
-                style="max-width: 50%;"
+                style="max-width: 100%;"
               />
-            </div>
-              <div class="col-lg-8 col-md-8">
+                </div>
+                <div class="col-lg-8 col-md-8">
                 <h4>Fountain of Luv</h4>
-                <p>
+                <h6>
                   Collection of the Original <br />
                   NFT's with new and super cool styles consistently releasing
-                </p>
+                </h6>
+                </div>
               </div>
-      
-            <div class="col-lg-4 col-md-4 no-gutters">
-              <img
+            </div>
+
+            <div class="col-lg-6 col-md-6 no-gutters">
+              <div class="row">
+                <div class="col-lg-4 col-lg-4">
+                <img
                 src="image/globe.png"
                 alt=""
                 srcset=""
                 class="img-responsive"
-                style="max-width: 50%;"
+                style="max-width: 100%;"
               />
-            </div>          
-              <div class="col-lg-8 col-md-8">
+                </div>
+                <div class="col-lg-8 col-lg-8"> 
                 <h4>CryptoBallerz</h4>
-                <p style="">
+                <p>
                   All Athlete powered collection for every sport. With Our
                   ground 0 notable family members i.e Netflix Star Joe Hampton &
                   NBA Stud Trevon Duval
                 </p>
+                </div>
+
               </div>
+
             </div>
           </div>
-        
+        </div>
 
-        <div class="container d-flex justify-content-between pt-5 pb-5 text-light">
+        <div class="container pt-3 justify-content-center text-light">
           <div class="row no-gutters">
-            <div class="col-lg-4 col-md-4">
-              <img
+            <div class="col-lg-6 col-md-6">
+              <div class="row">
+                <div class="col-lg-4 col-md-4 ">
+                <img
                 src="image/globe.png"
                 alt=""
                 srcset=""
                 class="img-responsive"
-                style="max-width: 50%;"
+                style="max-width: 100%;"
               />
-              <div class="col-lg-8 col-md-8">
+                </div>
+                <div class="col-lg-8 col-md-8">
                 <h4>Sista Solider</h4>
-                <p>
+                <h6>
                   Women Empowerment Movement Designed and Envisioned with the
                   Divinely Beautiful and Talented Afro Queen Artist, Yvette
                   Crocker
-                </p>
+                </h6>
+                </div>
               </div>
             </div>
-            <div class="col-lg-6 col-md-4 no-gutters">
-              <img
+
+            <div class="col-lg-6 col-md-6 no-gutters">
+              <div class="row">
+                <div class="col-lg-4 col-lg-4">
+                <img
                 src="image/globe.png"
                 alt=""
                 srcset=""
                 class="img-responsive"
-                style="max-width: 50%;"
+                style="max-width: 100%;"
               />
-              <div class="pt-5 col-lg-6 col-md-6">
+                </div>
+                <div class="col-lg-8 col-lg-8"> 
                 <h4>Your MetaLuv Collection?</h4>
                 <p>Lets see where our Imagination takes us</p>
+                </div>
+
               </div>
+
             </div>
           </div>
         </div>
@@ -419,72 +439,94 @@
 
         <div class="container pt-3 justify-content-center text-light">
           <div class="row no-gutters">
-            <div class="col-lg-6">
-              <img
+            <div class="col-lg-6 col-md-6">
+              <div class="row">
+                <div class="col-lg-4 col-md-4 ">
+                <img
                 src="image/globe.png"
                 alt=""
                 srcset=""
                 class="img-responsive"
-                style="max-width: 50%; float: left"
+                style="max-width: 100%;"
               />
-              <div class="pt-5">
+                </div>
+                <div class="col-lg-8 col-md-8">
                 <h4>The show must go on</h4>
-                <p>
+                <h6>
                   Amazing seats at different sporting events and events through
                   CryptoBallerz
-                </p>
+                </h6>
+                </div>
               </div>
             </div>
-            <div class="col-lg-6 no-gutters">
-              <img
+
+            <div class="col-lg-6 col-md-6 no-gutters">
+              <div class="row">
+                <div class="col-lg-4 col-lg-4">
+                <img
                 src="image/globe.png"
                 alt=""
                 srcset=""
                 class="img-responsive"
-                style="max-width: 50%; float: left"
+                style="max-width: 100%;"
               />
-              <div class="pt-5">
+                </div>
+                <div class="col-lg-8 col-lg-8"> 
                 <h4>Dripped in MetaLuv</h4>
                 <p style="">
                   Exclusive Merch Drops, canvas art and collectibles etc for
                   family members with staking proof
                 </p>
+                </div>
+
               </div>
+
             </div>
           </div>
         </div>
 
-        <div class="container d-flex justify-content-center pt-5 text-light">
+        <div class="container pt-3 justify-content-center text-light">
           <div class="row no-gutters">
-            <div class="col-lg-6">
-              <img
+            <div class="col-lg-6 col-md-6">
+              <div class="row">
+                <div class="col-lg-4 col-md-4 ">
+                <img
                 src="image/globe.png"
                 alt=""
                 srcset=""
                 class="img-responsive"
-                style="max-width: 50%; float: left"
+                style="max-width: 100%;"
               />
-              <div class="pt-5">
+                </div>
+                <div class="col-lg-8 col-md-8">
                 <h4>OMGosh a Tesla</h4>
-                <p>
+                <h6>
                   Yes, there will be one family member every year who will
                   receive a Tesla for being a faithful member of the MetaLuv
                   family
-                </p>
+                </h6>
+                </div>
               </div>
             </div>
-            <div class="col-lg-6 no-gutters">
-              <img
+
+            <div class="col-lg-6 col-md-6 no-gutters">
+              <div class="row">
+                <div class="col-lg-4 col-lg-4">
+                <img
                 src="image/globe.png"
                 alt=""
                 srcset=""
                 class="img-responsive"
-                style="max-width: 50%; float: left"
+                style="max-width: 100%;"
               />
-              <div class="pt-5">
+                </div>
+                <div class="col-lg-8 col-lg-8"> 
                 <h4>Scholarship Funds</h4>
                 <p style="color: #E581F4;">Giving Everlasting Education and Love</p>
+                </div>
+
               </div>
+
             </div>
           </div>
         </div>
