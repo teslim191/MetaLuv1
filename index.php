@@ -159,13 +159,13 @@
 
       <div class="container-fluid pt-4">
         <div class="row">
-          <div class="col-lg-6 col-md-6 col-sm-6 col-6"></div>
+          <div class="col-lg-5 col-md-5 col-sm-5 col-5"></div>
           <div class="col-lg-3 col-md-3 col-sm-3 col-3">
             <span style="font-size: 50px; color: white">&#8681;</span>
           </div>
-          <div class="col-lg-3 col-md-3 col-sm-3 col-3 pt-4">
+          <div class="col-lg-4 col-md-4 col-sm-4 col-4 pt-4">
             <div class="row">
-              <div class="col-lg-3 col-md-3">
+              <div class="col-lg-2 col-md-2">
                 <div class="row">
                   <div class="col-lg-10 col-md-10">
                     <h6>Facebook</h6>
@@ -175,7 +175,7 @@
                   </div>
                 </div>
               </div>
-              <div class="col-lg-3">
+              <div class="col-lg-2 col-md-2">
                 <div class="row">
                   <div class="col-lg-10 col-md-10">
                     <h6>Instagram</h6>
@@ -188,6 +188,7 @@
             </div>
           </div>
         </div>
+      </div>
       </div>
 
       <section>
