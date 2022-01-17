@@ -336,7 +336,7 @@
 
         <div class="container pt-3 justify-content-center text-light">
           <div class="row no-gutters">
-            <div class="col-lg-6 col-md-6">
+            <div class="col-lg-4 col-md-4">
               <img
                 src="image/globe.png"
                 alt=""
@@ -344,15 +344,16 @@
                 class="img-responsive"
                 style="max-width: 50%;"
               />
-              <div class="pt-5 col-lg-6 col-md-6">
+            </div>
+              <div class="col-lg-8 col-md-8">
                 <h4>Fountain of Luv</h4>
                 <p>
                   Collection of the Original <br />
                   NFT's with new and super cool styles consistently releasing
                 </p>
               </div>
-            </div>
-            <div class="col-lg-6 col-md-6 no-gutters">
+      
+            <div class="col-lg-4 col-md-4 no-gutters">
               <img
                 src="image/globe.png"
                 alt=""
@@ -360,7 +361,8 @@
                 class="img-responsive"
                 style="max-width: 50%;"
               />
-              <div class="pt-5 col-lg-6 col-md-6">
+            </div>          
+              <div class="col-lg-8 col-md-8">
                 <h4>CryptoBallerz</h4>
                 <p style="">
                   All Athlete powered collection for every sport. With Our
@@ -370,11 +372,11 @@
               </div>
             </div>
           </div>
-        </div>
+        
 
         <div class="container d-flex justify-content-between pt-5 pb-5 text-light">
           <div class="row no-gutters">
-            <div class="col-lg-6 col-md-6">
+            <div class="col-lg-4 col-md-4">
               <img
                 src="image/globe.png"
                 alt=""
@@ -382,7 +384,7 @@
                 class="img-responsive"
                 style="max-width: 50%;"
               />
-              <div class="pt-5 col-lg-6 col-md-6">
+              <div class="col-lg-8 col-md-8">
                 <h4>Sista Solider</h4>
                 <p>
                   Women Empowerment Movement Designed and Envisioned with the
@@ -391,7 +393,7 @@
                 </p>
               </div>
             </div>
-            <div class="col-lg-6 col-md-6 no-gutters">
+            <div class="col-lg-6 col-md-4 no-gutters">
               <img
                 src="image/globe.png"
                 alt=""
