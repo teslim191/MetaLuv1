@@ -337,37 +337,48 @@
         <div class="container pt-3 justify-content-center text-light">
           <div class="row no-gutters">
             <div class="col-lg-6 col-md-6">
-              <img
+              <div class="row">
+                <div class="col-lg-4 col-md-4 ">
+                <img
                 src="image/globe.png"
                 alt=""
                 srcset=""
                 class="img-responsive"
-                style="max-width: 50%; float: left"
+                style="max-width: 50%;"
               />
-              <div class="pt-5">
+                </div>
+                <div class="col-lg-8 col-md-8">
                 <h4>Fountain of Luv</h4>
                 <h6>
                   Collection of the Original <br />
                   NFT's with new and super cool styles consistently releasing
                 </h6>
+                </div>
               </div>
             </div>
+
             <div class="col-lg-6 col-md-6 no-gutters">
-              <img
+              <div class="row">
+                <div class="col-lg-4 col-lg-4">
+                <img
                 src="image/globe.png"
                 alt=""
                 srcset=""
                 class="img-responsive"
                 style="max-width: 50%; float: left"
               />
-              <div class="pt-5">
+                </div>
+                <div class="col-lg-8 col-lg-8"> 
                 <h4>CryptoBallerz</h4>
                 <p style="">
                   All Athlete powered collection for every sport. With Our
                   ground 0 notable family members i.e Netflix Star Joe Hampton &
                   NBA Stud Trevon Duval
                 </p>
+                </div>
+
               </div>
+
             </div>
           </div>
         </div>
