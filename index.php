@@ -265,15 +265,15 @@
               </span>
               <div style="color: white !important">
                 <ol id="list">
-                  <li><h5>Access to in person and virtual events.</h5></li>
+                  <li><h6>Access to in person and virtual events.</h6></li>
                   <li>
-                    <h5>
+                    <h6>
                       Scholarship funds and assisted living for unpriviledged
                       students and visionaries.
-                    </h5>
+                    </h6>
                   </li>
-                  <li><h5>Automatic percentage donation to charities</h5></li>
-                  <li><h5>Open door to the purist NFT Club created</h5></li>
+                  <li><h6>Automatic percentage donation to charities</h6></li>
+                  <li><h6>Open door to the purist NFT Club created</h6></li>
                 </ol>
               </div>
               <div class="mx-5">
