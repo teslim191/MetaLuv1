@@ -89,6 +89,13 @@ ul li:hover:before {
         /* max-width: 50% !important;       */
 
     }
+    .fountain .text{
+        text-align: center !important;
+    }
+    #para{
+        font-size: 0.9em !important;
+    }
+
 }
 
 @media screen and (min-width: 601px){
