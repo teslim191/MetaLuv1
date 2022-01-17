@@ -260,20 +260,20 @@
                 class="img-responsive"
                 style="max-width: 30%; transform: rotateZ(300deg)"
               />
-              <span id="span1" style="font-size: 1.5em; color: white;"><strong>
+              <span id="span1" style="font-size: 1.2em; color: white;"><strong>
                 Benefits of MetaLuv <span style="color: #f294ef">NFT's</strong></span>
               </span>
               <div style="color: white !important">
                 <ol id="list">
-                  <li><h3>Access to in person and virtual events.</h3></li>
+                  <li><h5>Access to in person and virtual events.</h5></li>
                   <li>
-                    <h3>
+                    <h5>
                       Scholarship funds and assisted living for unpriviledged
                       students and visionaries.
-                    </h3>
+                    </h5>
                   </li>
-                  <li><h3>Automatic percentage donation to charities</h3></li>
-                  <li><h3>Open door to the purist NFT Club created</h3></li>
+                  <li><h5>Automatic percentage donation to charities</h5></li>
+                  <li><h5>Open door to the purist NFT Club created</h5></li>
                 </ol>
               </div>
               <div class="mx-5">
