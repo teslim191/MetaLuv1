@@ -338,7 +338,7 @@
           <div class="row no-gutters">
             <div class="col-lg-6 col-md-6">
               <div class="row">
-                <div class="col-lg-4 col-md-4 ">
+                <div class="col-lg-4 col-md-4">
                 <img
                 src="image/globe.png"
                 alt=""
@@ -347,7 +347,7 @@
                 style="max-width: 100%;"
               />
                 </div>
-                <div class="col-lg-8 col-md-8">
+                <div class="col-lg-8 col-md-8 pt-4">
                 <h4>Fountain of Luv</h4>
                 <h6>
                   Collection of the Original <br />
@@ -368,7 +368,7 @@
                 style="max-width: 100%;"
               />
                 </div>
-                <div class="col-lg-8 col-md-8"> 
+                <div class="col-lg-8 col-md-8 pt-4"> 
                 <h4>CryptoBallerz</h4>
                 <p>
                   All Athlete powered collection for every sport. With Our
@@ -396,7 +396,7 @@
                 style="max-width: 100%;"
               />
                 </div>
-                <div class="col-lg-8 col-md-8">
+                <div class="col-lg-8 col-md-8 pt-4">
                 <h4>Sista Solider</h4>
                 <h6>
                   Women Empowerment Movement Designed and Envisioned with the
@@ -418,7 +418,7 @@
                 style="max-width: 100%;"
               />
                 </div>
-                <div class="col-lg-8 col-md-8"> 
+                <div class="col-lg-8 col-md-8 pt-4"> 
                 <h4>Your MetaLuv Collection?</h4>
                 <p>Lets see where our Imagination takes us</p>
                 </div>
@@ -450,7 +450,7 @@
                 style="max-width: 100%;"
               />
                 </div>
-                <div class="col-lg-8 col-md-8">
+                <div class="col-lg-8 col-md-8 pt-4">
                 <h4>The show must go on</h4>
                 <h6>
                   Amazing seats at different sporting events and events through
@@ -471,7 +471,7 @@
                 style="max-width: 100%;"
               />
                 </div>
-                <div class="col-lg-8 col-md-8"> 
+                <div class="col-lg-8 col-md-8 pt-4"> 
                 <h4>Dripped in MetaLuv</h4>
                 <p style="">
                   Exclusive Merch Drops, canvas art and collectibles etc for
@@ -498,7 +498,7 @@
                 style="max-width: 100%;"
               />
                 </div>
-                <div class="col-lg-8 col-md-8">
+                <div class="col-lg-8 col-md-8 pt-4">
                 <h4>OMGosh a Tesla</h4>
                 <h6>
                   Yes, there will be one family member every year who will
@@ -520,7 +520,7 @@
                 style="max-width: 100%;"
               />
                 </div>
-                <div class="col-lg-8 col-md-8"> 
+                <div class="col-lg-8 col-md-8 pt-4"> 
                 <h4>Scholarship Funds</h4>
                 <p style="color: #E581F4;">Giving Everlasting Education and Love</p>
                 </div>
