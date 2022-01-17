@@ -219,11 +219,11 @@
           <div class="row no-gutters">
             <div class="col-lg-5 col-md-5 text-center d-flex justify-content-md-center">
               <h1 id="map" style="font-weight: 700; color: white">
-                RoadMap for <br />
+                RoadMap for
                 MetaLuv
               </h1>
             </div>
-            <div class="col-lg-7 col-md-7" style="color: #78b2fc">
+            <div id="road" class="col-lg-7 col-md-7" style="color: #78b2fc">
               <h3>
                 Phase1-Utility NFT Release of various Empowerment Collections
               </h3>
