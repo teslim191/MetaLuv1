@@ -92,6 +92,9 @@ ul li:hover:before {
     #list li h4{
     font-size: 0.8em !important;
 }
+    #road{
+        font-size: 0.8em !important;
+    }
 }
 
 @media screen and (min-width: 601px){
