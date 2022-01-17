@@ -349,10 +349,10 @@
                 </div>
                 <div class="col-lg-8 col-md-8 pt-4">
                 <h4>Fountain of Luv</h4>
-                <h6>
+                <p>
                   Collection of the Original <br />
                   NFT's with new and super cool styles consistently releasing
-                </h6>
+                </p>
                 </div>
               </div>
             </div>
@@ -398,11 +398,11 @@
                 </div>
                 <div class="col-lg-8 col-md-8 pt-4">
                 <h4>Sista Solider</h4>
-                <h6>
+                <p>
                   Women Empowerment Movement Designed and Envisioned with the
                   Divinely Beautiful and Talented Afro Queen Artist, Yvette
                   Crocker
-                </h6>
+                </p>
                 </div>
               </div>
             </div>
@@ -452,10 +452,10 @@
                 </div>
                 <div class="col-lg-8 col-md-8 pt-4">
                 <h4>The show must go on</h4>
-                <h6>
+                <p>
                   Amazing seats at different sporting events and events through
                   CryptoBallerz
-                </h6>
+                </p>
                 </div>
               </div>
             </div>
@@ -500,11 +500,11 @@
                 </div>
                 <div class="col-lg-8 col-md-8 pt-4">
                 <h4>OMGosh a Tesla</h4>
-                <h6>
+                <p>
                   Yes, there will be one family member every year who will
                   receive a Tesla for being a faithful member of the MetaLuv
                   family
-                </h6>
+                </p>
                 </div>
               </div>
             </div>
@@ -522,7 +522,7 @@
                 </div>
                 <div class="col-lg-8 col-md-8 pt-4"> 
                 <h4>Scholarship Funds</h4>
-                <p style="color: #E581F4;">Giving Everlasting Education and Love</p>
+                <h5 style="color: #E581F4;">Giving Everlasting Education and Love</h5>
                 </div>
 
               </div>
