@@ -334,7 +334,7 @@
           </div>
         </div>
 
-        <div class="container pt-3 justify-content-center text-light">
+          <div class="container pt-3 justify-content-center text-light">
           <div class="row no-gutters">
             <div class="col-lg-6 col-md-6">
               <div class="row">
@@ -359,7 +359,7 @@
 
             <div class="col-lg-6 col-md-6 no-gutters">
               <div class="row">
-                <div class="col-lg-4 col-lg-4">
+                <div class="col-lg-4 col-md-4">
                 <img
                 src="image/globe.png"
                 alt=""
@@ -368,7 +368,7 @@
                 style="max-width: 100%;"
               />
                 </div>
-                <div class="col-lg-8 col-lg-8"> 
+                <div class="col-lg-8 col-md-8"> 
                 <h4>CryptoBallerz</h4>
                 <p>
                   All Athlete powered collection for every sport. With Our
@@ -409,7 +409,7 @@
 
             <div class="col-lg-6 col-md-6 no-gutters">
               <div class="row">
-                <div class="col-lg-4 col-lg-4">
+                <div class="col-lg-4 col-md-4">
                 <img
                 src="image/globe.png"
                 alt=""
@@ -418,7 +418,7 @@
                 style="max-width: 100%;"
               />
                 </div>
-                <div class="col-lg-8 col-lg-8"> 
+                <div class="col-lg-8 col-md-8"> 
                 <h4>Your MetaLuv Collection?</h4>
                 <p>Lets see where our Imagination takes us</p>
                 </div>
@@ -462,7 +462,7 @@
 
             <div class="col-lg-6 col-md-6 no-gutters">
               <div class="row">
-                <div class="col-lg-4 col-lg-4">
+                <div class="col-lg-4 col-md-4">
                 <img
                 src="image/globe.png"
                 alt=""
@@ -471,7 +471,7 @@
                 style="max-width: 100%;"
               />
                 </div>
-                <div class="col-lg-8 col-lg-8"> 
+                <div class="col-lg-8 col-md-8"> 
                 <h4>Dripped in MetaLuv</h4>
                 <p style="">
                   Exclusive Merch Drops, canvas art and collectibles etc for
@@ -511,7 +511,7 @@
 
             <div class="col-lg-6 col-md-6 no-gutters">
               <div class="row">
-                <div class="col-lg-4 col-lg-4">
+                <div class="col-lg-4 col-md-4">
                 <img
                 src="image/globe.png"
                 alt=""
@@ -520,7 +520,7 @@
                 style="max-width: 100%;"
               />
                 </div>
-                <div class="col-lg-8 col-lg-8"> 
+                <div class="col-lg-8 col-md-8"> 
                 <h4>Scholarship Funds</h4>
                 <p style="color: #E581F4;">Giving Everlasting Education and Love</p>
                 </div>
