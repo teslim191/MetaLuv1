@@ -342,9 +342,9 @@
                 alt=""
                 srcset=""
                 class="img-responsive"
-                style="max-width: 50%; float: left"
+                style="max-width: 50%;"
               />
-              <div class="pt-5">
+              <div class="pt-5 col-lg-6 col-md-6">
                 <h4>Fountain of Luv</h4>
                 <p>
                   Collection of the Original <br />
@@ -358,9 +358,9 @@
                 alt=""
                 srcset=""
                 class="img-responsive"
-                style="max-width: 50%; float: left"
+                style="max-width: 50%;"
               />
-              <div class="pt-5">
+              <div class="pt-5 col-lg-6 col-md-6">
                 <h4>CryptoBallerz</h4>
                 <p style="">
                   All Athlete powered collection for every sport. With Our
@@ -380,9 +380,9 @@
                 alt=""
                 srcset=""
                 class="img-responsive"
-                style="max-width: 50%; float: left"
+                style="max-width: 50%;"
               />
-              <div class="pt-5">
+              <div class="pt-5 col-lg-6 col-md-6">
                 <h4>Sista Solider</h4>
                 <p>
                   Women Empowerment Movement Designed and Envisioned with the
@@ -397,9 +397,9 @@
                 alt=""
                 srcset=""
                 class="img-responsive"
-                style="max-width: 50%; float: left"
+                style="max-width: 50%;"
               />
-              <div class="pt-5">
+              <div class="pt-5 col-lg-6 col-md-6">
                 <h4>Your MetaLuv Collection?</h4>
                 <p>Lets see where our Imagination takes us</p>
               </div>
