@@ -27,43 +27,43 @@
           Spreading Love and Purity in the Metaverse.<span><i class="fas fa-arrow-right ml-2"></i></span>
         </h6>
       </header>
-    
 
-    
-            
-      
-      
-            <nav class="navbar navbar-expand-lg navbar-light pb-5">
-              <div class="container-fluid">
-              <a class="navbar-brand" style="transform: translateX(-50%);top:30%; left: 30%;position: absolute;width: 200px;" href="#"><img src="image/globe.png" alt="" class="img-responsive" style="max-width: 100%" /></a>
-                <button class="navbar-toggler bg-light" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                  <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarNav">
-                  <ul class="navbar-nav ms-auto">
-                    <li class="nav-item">
-                      <a style="font-weight: 900" id="home" class="nav-link active pr-3 text-warning" aria-current="page" href="#">Home</a>
-                    </li>
-                    <li class="nav-item">
-                      <a class="nav-link" href="#">RoadMap</a>
-                    </li>
-                    <li class="nav-item">
-                      <a class="nav-link" href="#">Utilities</a>
-                    </li>
-                    <li class="nav-item">
-                      <a class="nav-link" href="">Partners</a>
-                    </li>
-                    <li class="nav-item">
-                      <a class="nav-link" href="">Contacts</a>
-                    </li>
-                  </ul>
-                  <form class="d-flex">
-                    <input class="form-control" type="search" placeholder="" aria-label="Search" />
-                    <span><i class="fas fa-search mx-2 mt-2 text-light"></i></span>
-                  </form>
-                </div>
-              </div>
-            </nav>
+
+
+
+
+
+      <nav class="navbar navbar-expand-lg navbar-light pb-5">
+        <div class="container-fluid">
+          <a class="navbar-brand" style="transform: translateX(-50%);top:30%; left: 30%;position: absolute;width: 200px;" href="#"><img src="image/globe.png" alt="" class="img-responsive" style="max-width: 100%" /></a>
+          <button class="navbar-toggler bg-light" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ms-auto">
+              <li class="nav-item">
+                <a style="font-weight: 900" id="home" class="nav-link active pr-3 text-warning" aria-current="page" href="#">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">RoadMap</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Utilities</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="">Partners</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="">Contacts</a>
+              </li>
+            </ul>
+            <form class="d-flex">
+              <input class="form-control" type="search" placeholder="" aria-label="Search" />
+              <span><i class="fas fa-search mx-2 mt-2 text-light"></i></span>
+            </form>
+          </div>
+        </div>
+      </nav>
 
 
       <div class="container-fluid mt-5 pt-5">
@@ -171,19 +171,22 @@
         <div class="row no-gutters">
           <div class="col-lg-5 col-md-5 text-center d-flex justify-content-md-center">
             <h1 id="map" style="font-weight: 700; color: white">
-              RoadMap for <br />
+              RoadMap for
               MetaLuv
             </h1>
           </div>
           <div class="col-lg-7 col-md-7" style="color: #78b2fc">
-            <h3>
-              Phase1-Utility NFT Release of various Empowerment Collections
-            </h3>
-            <h3>Phase2- Acquire Digital Real Estate for Social Lounge</h3>
-            <h3>Phase3- Merch Drop for Family</h3>
-            <h3>
-              Phase4- Live Tour for Supporters to Build with Influencers
-            </h3>
+            <div id="road">
+              <h3>
+                Phase1-Utility NFT Release of various Empowerment Collections
+              </h3>
+              <h3>Phase2- Acquire Digital Real Estate for Social Lounge</h3>
+              <h3>Phase3- Merch Drop for Family</h3>
+              <h3>
+                Phase4- Live Tour for Supporters to Build with Influencers
+              </h3>
+            </div>
+
           </div>
         </div>
       </div>
