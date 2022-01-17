@@ -599,7 +599,7 @@
         <div class="container">
           <div class="row justify-content-center">
             <div class="col-md-6">
-              <h4 style="color: #C0FAAF;">
+              <h4 style="color: #C0FAAF;" id="para">
                 MetaLuv NFT is more than a NFT Community. We are beyond love as
                 individuals. Striving on the understanding of the importance of
                 self love and that we all deserving of equal and meaningful love
