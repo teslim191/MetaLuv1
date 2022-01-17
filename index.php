@@ -157,17 +157,34 @@
           </div>
         </div>
 
-        <div class="container-fluid pt-4">
-          <div class="row">
-            <div class="col-lg-6 col-md-6 col-sm-6 col-6"></div>
-            <div class="col-lg-3 col-md-3 col-sm-3 col-3">
-              <span style="font-size: 50px; color: white">&#8681;</span>
-            </div>
-            <div class="col-lg-3 col-md-3 col-sm-3 col-3 pt-4">
-              <span style="color: white">Facebook</span
-              ><i class="fab fa-facebook-f text-light mx-2"></i>
-              <span style="color: white">Instagram</span
-              ><i class="fab fa-instagram text-light mx-2"></i>
+      <div class="container-fluid pt-4">
+        <div class="row">
+          <div class="col-lg-6 col-md-6 col-sm-6 col-6"></div>
+          <div class="col-lg-3 col-md-3 col-sm-3 col-3">
+            <span style="font-size: 50px; color: white">&#8681;</span>
+          </div>
+          <div class="col-lg-3 col-md-3 col-sm-3 col-3 pt-4">
+            <div class="row">
+              <div class="col-lg-3 col-md-3">
+                <div class="row">
+                  <div class="col-lg-10 col-md-10">
+                    <h6>Facebook</h6>
+                  </div>
+                  <div class="col-lg-2 col-md-2">
+                    <a href=""><i class="fab fa-facebook-f text-light mx-2"></i></a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-3">
+                <div class="row">
+                  <div class="col-lg-10 col-md-10">
+                    <h6>Instagram</h6>
+                  </div>
+                  <div class="col-lg-2 col-md-2">
+                    <a href=""><i class="fab fa-instagram text-light mx-2"></i></a>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>
