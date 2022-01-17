@@ -260,7 +260,7 @@
                 class="img-responsive"
                 style="max-width: 30%; transform: rotateZ(300deg)"
               />
-              <span id="span1" style="font-size: 1.2em; color: white;"><strong>
+              <span id="span1" style="font-size: 1.3em; color: white;"><strong>
                 Benefits of MetaLuv <span style="color: #f294ef">NFT's</strong></span>
               </span>
               <div style="color: white !important">
